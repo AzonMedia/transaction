@@ -1,0 +1,24 @@
+{
+    "name": "azonmedia/transaction",
+    "type": "library",
+    "description": "Transactions manager and transaction classes",
+    "keywords": ["transaction maanger","transaction"],
+    "homepage": "https://github.com/AzonMedia/transaction",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Vesko Kenashkov",
+            "email": "kenashkov@azonmedia.com",
+            "homepage": "http://azonmedia.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Azonmedia\\Transaction\\": "src/"
+        }
+    }
+}
