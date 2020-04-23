@@ -8,7 +8,7 @@ use Azonmedia\Components\BaseComponent;
 class Component extends BaseComponent
 {
 
-    protected const COMPONENT_NAME = "Transaction package";
+    protected const COMPONENT_NAME = "MemoryTransaction package";
     protected const COMPONENT_URL = 'https://transaction.packages.guzaba.org/';
     protected const COMPONENT_NAMESPACE = __NAMESPACE__;
     protected const COMPONENT_VERSION = '0.0.1';
