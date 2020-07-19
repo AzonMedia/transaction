@@ -4,7 +4,7 @@
     "description": "Transactions manager and transaction classes",
     "keywords": ["transaction maanger","transaction"],
     "homepage": "https://github.com/AzonMedia/transaction",
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vesko Kenashkov",
